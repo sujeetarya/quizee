@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903199877746",
+    "project_id": "quizee-fcc1e",
+    "storage_bucket": "quizee-fcc1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903199877746:android:40b510d08815c3a80ef0eb",
+        "android_client_info": {
+          "package_name": "com.example.quizee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903199877746-m21b8vmbsaqucstm8ftreb04pe3ftv1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhzkMo6sxwsmIzd0SAGvXSrk7P8I7HsDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903199877746-m21b8vmbsaqucstm8ftreb04pe3ftv1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

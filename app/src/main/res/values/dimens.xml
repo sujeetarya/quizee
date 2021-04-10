@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_extra_wide">32dp</dimen>
+    <dimen name="margin_wide">24dp</dimen>
+    <dimen name="margin_half">16dp</dimen>
+    <dimen name="margin_min">8dp</dimen>
+
+    <!--Padding-->
+    <dimen name="padding_extra_wide">32dp</dimen>
+    <dimen name="padding_wide">24dp</dimen>
+    <dimen name="padding_half">16dp</dimen>
+    <dimen name="padding_min">8dp</dimen>
+</resources>
