@@ -1,7 +1,8 @@
 # Quizee
-Quizee is an app that allows the user to participate in quiz accorting to their taste or pick a particular date quize after attempting and submitting the quiz score and correct answers of the questions will be shown.
+I created this app while learning and followed [CheezyCode](https://www.youtube.com/@CheezyCode). It allows users to participate in quizzes according to their taste or pick a particular date quiz. After attempting and submitting the quiz, scores and correct answers to the questions will be shown.
 
-Main challenge for me in this project was working with firestore as it is a NoSQL document database and I never worked with NoSQL database but with some good blogs & great documentation on internet & some dedication I overcome challenges and completed the project and now I have some extra knowledge from yesterday.
+My main challenge in this project was working with firestore, as it is a NoSQL document database, and I had never worked with a NoSQL database. But with some good blogs & excellent documentation on the internet & with some dedication, I overcame challenges and completed it, and now I have some extra knowledge from yesterday.
+
 
 ### Things I Learned
 * Constraint Layout Guidelines
